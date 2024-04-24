@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T20:01:11.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="rkxuW7VcNQWpijSz7W8T" version="24.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T20:01:53.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="f5Ba0U5wiFrQo0jofAtE" version="24.2.9" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1274" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="28.13" y="662.5" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="790" width="400" height="240" as="geometry" />
+          <mxGeometry x="350" y="800" width="400" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-9" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="340" y="915" width="40" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="77.03" y="565" width="315.94" height="260" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;La cuarta generación (mitad de los 70&#39; hasta la fecha): las computadoras personales&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;A mediados de los 70&#39;s la electrónica avanza hacia la integración a gran escala, pudiendo crear circuitos con miles de transitores, haciendo posible las computadoras personales y las workstations.&lt;br&gt;Para mediados de los 80&#39;s, comienza el auge de las redes de computadoras y la necesidad de SO en red y SO distribuidos. &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Durante los 90&#39;s, el paradigma de la programación orientada a objetos aumenta, así como el manejo de objetos desde los SO. Las aplicaciones intentan crearse para ser ejecutadas en una plataforma específica y poder ver sus resultados en la pantalla o monitor.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Se desarrollaron Sistemas Operativos tales como: Apple Macintosh en enero de 1984; el MS-DOS, cuando en 1981 Microsoft compró un SO llamado QDOS; Microsoft Windows, una familia de SO propietarios desarrollados por la empresa de software Microsoft Corporation&lt;/font&gt;.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="361.25" y="790" width="377.5" height="240" as="geometry" />
+          <mxGeometry x="361.25" y="800" width="377.5" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
